@@ -27,8 +27,8 @@ namespace HighestRankedCard
         }
     }
 
-    class Clubs
+    class deck
     {
-        Cards[] clubCards = { };
+
     }
 }
