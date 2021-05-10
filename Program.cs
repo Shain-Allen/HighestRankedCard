@@ -27,8 +27,13 @@ namespace HighestRankedCard
         }
     }
 
-    class deck
+    class Deck
     {
+        card[] deck = new card[4];
 
+        public Deck()
+        {
+
+        }
     }
 }
